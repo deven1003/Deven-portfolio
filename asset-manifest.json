@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Deven-portfolio/static/css/main.e12a8293.css",
+    "main.js": "/Deven-portfolio/static/js/main.e7ed623a.js",
+    "static/media/bg-universe.mp4": "/Deven-portfolio/static/media/bg-universe.8f0c7b0507588a3d538a.mp4",
+    "static/media/fallback-image.png": "/Deven-portfolio/static/media/fallback-image.d7075bb6fc934f311561.png",
+    "static/media/project-1.png": "/Deven-portfolio/static/media/project-1.7240dc76db15ce79b8f6.png",
+    "static/media/project-3.png": "/Deven-portfolio/static/media/project-3.6945a5c5000370ad007f.png",
+    "static/media/avatar-image.png": "/Deven-portfolio/static/media/avatar-image.97b6f36ecb47d9063ede.png",
+    "static/media/project-2.png": "/Deven-portfolio/static/media/project-2.7e9a76c5ccea97a18cca.png",
+    "index.html": "/Deven-portfolio/index.html",
+    "main.e12a8293.css.map": "/Deven-portfolio/static/css/main.e12a8293.css.map",
+    "main.e7ed623a.js.map": "/Deven-portfolio/static/js/main.e7ed623a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e12a8293.css",
+    "static/js/main.e7ed623a.js"
+  ]
+}
